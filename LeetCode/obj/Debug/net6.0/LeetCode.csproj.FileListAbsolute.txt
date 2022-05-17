@@ -1,0 +1,12 @@
+D:\C# and .net\C#\LeetCode\LeetCode\bin\Debug\net6.0\LeetCode.deps.json
+D:\C# and .net\C#\LeetCode\LeetCode\bin\Debug\net6.0\LeetCode.dll
+D:\C# and .net\C#\LeetCode\LeetCode\bin\Debug\net6.0\LeetCode.pdb
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\LeetCode.csproj.AssemblyReference.cache
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\LeetCode.AssemblyInfoInputs.cache
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\LeetCode.AssemblyInfo.cs
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\LeetCode.csproj.CoreCompileInputs.cache
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\LeetCode.dll
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\refint\LeetCode.dll
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\LeetCode.pdb
+D:\C# and .net\C#\LeetCode\LeetCode\obj\Debug\net6.0\ref\LeetCode.dll
